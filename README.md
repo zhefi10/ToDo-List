@@ -55,7 +55,7 @@ $ git clone https://github.com/zhefi10/ToDo-List
 # Clone this project
 $ git clone https://github.com/zhefi10/ToDo-List
 # Access
-$ cd ToDoList
+$ cd ToDo
 # Configure npm server
 $ npm install -- global http-server
 #start the server
